@@ -1,0 +1,15 @@
+{
+  "name": "@findyfi/trustregistry-client",
+  "type": "module",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["openid", "federation", "trustregistry", "client"],
+  "author": "Samuel Rinnetmäki <samuel@iki.fi>",
+  "license": "Apache-2.0",
+  "description": "A simple API client for interacting with an OpenID Federation server",
+  "dependencies": {
+  }
+}
